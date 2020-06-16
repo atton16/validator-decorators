@@ -11,7 +11,8 @@
     "build:watch": "tsc -w",
     "test": "jest",
     "test:watch": "jest --watch",
-    "test:cov": "jest --coverage"
+    "test:cov": "jest --coverage",
+    "release": "standard-version"
   },
   "keywords": [
     "validator",
@@ -52,6 +53,7 @@
     "eslint-plugin-import": "^2.21.2",
     "jest": "^26.0.1",
     "prettier": "^2.0.5",
+    "standard-version": "^8.0.0",
     "ts-jest": "^26.1.0",
     "tsc-watch": "^4.2.8",
     "tslint": "^6.1.2",
