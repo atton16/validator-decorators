@@ -5,7 +5,7 @@ A collection of validator decorators. Fully compatible with [class-validator](ht
 ## Installation
 
 ```bash
-npm install validator-decorators
+npm install atton16-validator-decorators
 ```
 
 ## Usage
