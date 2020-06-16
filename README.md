@@ -11,7 +11,7 @@ npm install validator-decorators
 ## Usage
 
 ```typescript
-import { IsNumeral, IsInCaseInsensitive } from 'validator-decorators';
+import { IsNumeral, IsInCaseInsensitive } from 'atton16-validator-decorators';
 
 class Prize {
   @IsNumeral()
