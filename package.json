@@ -12,7 +12,8 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "test:cov": "jest --coverage",
-    "release": "standard-version"
+    "release": "standard-version",
+    "prepare": "npm run build"
   },
   "keywords": [
     "validator",
