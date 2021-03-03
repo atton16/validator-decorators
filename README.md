@@ -5,13 +5,13 @@ A collection of validator decorators. Fully compatible with [class-validator](ht
 ## Installation
 
 ```bash
-npm install atton16-validator-decorators
+npm install @atton16/validator-decorators
 ```
 
 ## Usage
 
 ```typescript
-import { IsNumeral, IsInCaseInsensitive } from 'atton16-validator-decorators';
+import { IsNumeral, IsInCaseInsensitive } from '@atton16/validator-decorators';
 
 class Prize {
   @IsNumeral()

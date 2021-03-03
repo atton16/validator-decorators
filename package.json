@@ -1,5 +1,5 @@
 {
-  "name": "atton16-validator-decorators",
+  "name": "@atton16/validator-decorators",
   "version": "1.1.0",
   "description": "A collection of validator decorators. Fully compatible with class-validator, NestJS and TypeScript.",
   "main": "dist/index.js",
