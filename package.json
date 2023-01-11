@@ -61,7 +61,7 @@
     "typescript": "^3.9.5"
   },
   "dependencies": {
-    "class-validator": "^0.12.2",
+    "class-validator": "^0.14.0",
     "numeral": "^2.0.6"
   }
 }
